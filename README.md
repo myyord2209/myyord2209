@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,50:E100FF,100:00C9FF&text=Hi,%20I'm%20myyord2209&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=DSSI%20%40%20Ubon%20Ratchathani%20University&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,50:E100FF,100:00C9FF&text=Hi,%20I'm%20Bamboo&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=DSSI%20%40%20Ubon%20Ratchathani%20University&descSize=18&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -63,10 +63,6 @@
   <img src="https://streak-stats.demolab.com?user=myyord2209&theme=tokyonight&hide_border=true&background=0D1117&ring=C77DFF&fire=00C9FF&currStreakLabel=C77DFF" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myyord2209&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C77DFF&line=00C9FF&point=FFFFFF&area=true" width="100%" />
-</p>
-
 ---
 
 ## <img src="https://api.iconify.design/mdi/pac-man.svg?color=%23FFD700" height="26" /> Pac-Man Eats My Contributions
@@ -76,14 +72,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/myyord2209/myyord2209/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/myyord2209/myyord2209/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-## <img src="https://api.iconify.design/mdi/trophy.svg?color=%23C77DFF" height="26" /> Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myyord2209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-</p>
 
 ---
 
